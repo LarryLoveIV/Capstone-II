@@ -12,11 +12,11 @@
   * Training Accuracy:    .8103 - .8998 - .9176 - .9270
   * Validation Accuracy:  .8817 - .8916 - .8834 - .8896
   * Validation Precision: .8907 - .9049 - .8545 - .8670
-  * Validation Recall:    .8702 - .8751 - .9241 - .9205
+  * Validation Recall:     .8702 - .8751 - .9241 - .9205
 
 ### LSTM_Model_08
 * Epochs 1-4: 
   * Training Accuracy:    .7673 - .9156 - .9507 - .9692
   * Validation Accuracy:  .8774 - .8877 - .8791 - .8795
   * Validation Precision: .9023 - .8870 - .9045 - .8819
-  * Validation Recall:    .8466 - .8885 - .8478 - .8763
+  * Validation Recall:     .8466 - .8885 - .8478 - .8763
