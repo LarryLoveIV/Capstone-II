@@ -2,10 +2,10 @@
 
 ### LSTM_Model_02
 * Epoch 1-5:
-  * Training Accuracy:&nbsp;.8269 - .9223 - .9527 - .9696 - .9766
+  * Training Accuracy: &nbsp; .8269 - .9223 - .9527 - .9696 - .9766
   * Validation Accuracy:  .8844 - .8772 - .8788 - .8698 - .8735
   * Validation Precision: .8934 - .8647 - .8699 - .8815 - .8693
-  * Validation Recall:&nbsp;.8729 - .8944 - .8907 - .8544 - .8793
+  * Validation Recall: &nbsp; .8729 - .8944 - .8907 - .8544 - .8793
 
 ### LSTM_Model_07
 * Epochs 1-4: 
